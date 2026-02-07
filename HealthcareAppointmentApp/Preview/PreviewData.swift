@@ -18,9 +18,9 @@ struct PreviewData {
         Doctor(id: UUID(), name: "Dr. E Rao", specialty: "Pediatrician", image: "doctor-5", bio: "Dr. Rao cares for children's health from infancy to adolescence."),
         Doctor(id: UUID(), name: "Dr. F Khan", specialty: "Gynecologist", image: "doctor-6", bio: "Dr. Khan provides expert care in women's health, prenatal care, and reproductive health."),
         Doctor(id: UUID(), name: "Dr. G Singh", specialty: "Psychiatrist", image: "doctor-7", bio: "Dr. Singh offers mental health support and psychiatric evaluations."),
-        Doctor(id: UUID(), name: "Dr. H Desai", specialty: "Dentist", image: "doctor-8", bio: "Dr. Desai provides dental care including cosmetic and surgical procedures."),
-        Doctor(id: UUID(), name: "Dr. I Joshi", specialty: "Oncologist", image: "doctor-9", bio: "Dr. Joshi specializes in diagnosing and treating various forms of cancer."),
-        Doctor(id: UUID(), name: "Dr. J Thomas", specialty: "General Physician", image: "doctor-10", bio: "Dr. Thomas treats a wide range of health conditions and focuses on preventive care.")
+//        Doctor(id: UUID(), name: "Dr. H Desai", specialty: "Dentist", image: "doctor-8", bio: "Dr. Desai provides dental care including cosmetic and surgical procedures."),
+//        Doctor(id: UUID(), name: "Dr. I Joshi", specialty: "Oncologist", image: "doctor-9", bio: "Dr. Joshi specializes in diagnosing and treating various forms of cancer."),
+//        Doctor(id: UUID(), name: "Dr. J Thomas", specialty: "General Physician", image: "doctor-10", bio: "Dr. Thomas treats a wide range of health conditions and focuses on preventive care.")
     ]
 
     static let sampleDoctor = sampleDoctors[0]
